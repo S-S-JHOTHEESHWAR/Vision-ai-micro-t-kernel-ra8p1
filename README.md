@@ -1,4 +1,6 @@
-# Vision AI using Micro T-Kernel on RA8P1
+# Vision-X using Micro T-Kernel on RA8P1
+
+Vision-X using Micro T-Kernel on RA8P1 is an embedded edge AI project that demonstrates a real-time vision processing pipeline on the Renesas EK-RA8P1 platform. It integrates camera capture, AI inference, external memory management, and LCD visualization to perform low-latency object detection entirely on-device, showcasing how deterministic RTOS scheduling and hardware acceleration enable efficient, offline Vision AI applications for robotics, industrial automation, and assistive technologies.
 
 > 🚧 **Work in Progress**
 >
